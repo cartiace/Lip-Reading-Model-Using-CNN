@@ -4,7 +4,7 @@ This project implements a Convolutional Neural Network (CNN) for lip reading bas
 
 ## Model
 The trained model is available for download here:  
-[Download Model](https://drive.google.com/drive/folders/1ORUAsMcLDKH44SkoaWfpMNlbJJpZki4Z?usp=drive_linkPackage)
+[Download Model](https://drive.google.com/drive/folders/1_oJ6D16vI5qisyS2I9Iam4M4FYfEBii6?usp=sharing)
 
 ## Installation
 
